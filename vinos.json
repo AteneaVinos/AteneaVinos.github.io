@@ -1,0 +1,329 @@
+{
+    "tintos": [
+
+      {
+        "name": "Villalua Tinto 2019",
+        "denominacionOrigen": "D.O. Huelva",
+        "tipoUva": "Tempranillo y Syrah",
+        "precio": "10.00 €",
+        "notaCataVisual": "Violáceo con reflejos azules.",
+        "notaCataBoca": "Intenso, redondo, fresco con recuerdos a fruta. Postgusto largo.",
+        "notaCataNariz": "Intenso, donde destaca la fruta roja, berries con toques a regaliz.",
+        "ubicacion": "Andalucía - España",
+        "crianza": "12 meses en barricas de roble francés y americano",
+        "foto": "media/tinto_villalua.png"
+      },
+      {
+        "name": "Zarco 2021",
+        "denominacionOrigen": "Andalucía",
+        "tipoUva": "Tintilla de Rota, Garnacha, Petit Verdot",
+        "precio": "12.00 €",
+        "notaCataVisual": "Rojo picota intenso con ribete granate.",
+        "notaCataBoca": "Potente y con cuerpo, con taninos bien integrados y un final largo y persistente.",
+        "notaCataNariz": "Aromas intensos a frutos negros maduros, especias, cacao y tostados.",
+        "ubicacion": "Andalucía - España",
+        "crianza": "12 meses en barrica de roble francés",
+        "foto": "media/tinto_zarco.png"
+      },
+      {
+        "name": "Hacienda Solano 2021",
+        "denominacionOrigen": "D.O. Ribera del Duero",
+        "tipoUva": "Tempranillo 98%, Albillo 2%",
+        "precio": "14.00 €",
+        "notaCataVisual": "Color cereza picota, púrpura intenso, límpido y brillante.",
+        "notaCataBoca": "Fresca y centro sedoso, de taninos fundidos y acidez medida, balsámico (eucalipto) y especiado (clavo y pimienta blanca) mientras un trasfondo de toffee, persistente.",
+        "notaCataNariz": "Intensa y afrutada (zarzamora y otra fruta del bosque) con toques de pimienta negra y regaliz.",
+        "ubicacion": "Castilla y León - España",
+        "crianza": "8 meses en barricas de roble francés y 3 meses en depósito",
+        "foto": "media/tinto_hacienda.png"
+      },
+      {
+        "name": "Petit Pittacum 2022",
+        "denominacionOrigen": "D.O. Bierzo",
+        "tipoUva": "100% Mencía",
+        "precio": "10.00 €",
+        "notaCataVisual": "Rojo cereza intenso con reflejos violáceos.",
+        "notaCataBoca": "Entrada fresca y frutal, con cuerpo medio y taninos redondos. Tiene una acidez viva y equilibrada, que le da un final largo y persistente.",
+        "notaCataNariz": "Predominan los aromas frutales a frambuesa, mora, arándano y fresa silvestre, acompañados de notas herbáceas, laurel, pimienta negra y toques balsámicos.",
+        "ubicacion": "Castilla y León - España",
+        "crianza": "3 meses en barrica de roble",
+        "foto": "media/tinto_petit.png"
+      },
+      {
+        "name": "Rivendel Roble 2021",
+        "denominacionOrigen": "D.O. Ribera del Duero",
+        "tipoUva": "100% Tempranillo",
+        "precio": "10.00 €",
+        "notaCataVisual": "Rojo picota intenso con ribete granate.",
+        "notaCataBoca": "Potente y con cuerpo, con taninos bien integrados y un final largo y persistente.",
+        "notaCataNariz": "Aromas a frutos rojos maduros, especias, vainilla y tostados.",
+        "ubicacion": "Castilla y León - España",
+        "crianza": "4 meses en barricas de roble francés y americano",
+        "foto": "media/tinto_rivedel.png"
+      },
+      {
+        "name": "Valdubón Crianza",
+        "denominacionOrigen": "D.O. Ribera del Duero",
+        "tipoUva": "100% Tempranillo",
+        "precio": "10.00 €",
+        "notaCataVisual": "Color rojo sangre de muy alta capa y marcados destellos violetas.",
+        "notaCataBoca": "Se muestra elegante, aterciopelado, con alta estructura, taninos amables y sedosos acompañados por una equilibrada acidez que ayuda en su paso por boca. Su alegre entrada es seguida por una evolución suave y un retrogusto intenso de frutas rojas.",
+        "notaCataNariz": "Sorprendente la concentración de frutas frescas, destacando la ciruela negra y la fresa ácida entremezcladas con notas especiadas de tomillo, sotobosque y pastelería que dejan ver la mezcla de maderas en su crianza.",
+        "ubicacion": "Castilla y León - España",
+        "crianza": "12 meses en barricas de roble francés y americano",
+        "foto": "media/tinto_valdubon.png"
+      },
+      {
+        "name": "Las Rocas 2019",
+        "denominacionOrigen": "D.O. Calatayud",
+        "tipoUva": "100% Garnacha",
+        "precio": "12.00 €",
+        "notaCataVisual": "Rojo picota intenso con ribete granate.",
+        "notaCataBoca": "Potente y con cuerpo, con taninos bien integrados y un final largo y persistente.",
+        "notaCataNariz": "Aromas a frutos negros maduros, especias, cacao y tostados.",
+        "ubicacion": "Aragón - España",
+        "crianza": "15 meses - Barrica",
+        "foto": "media/tinto_rocas.png"
+      },
+      {
+        "name": "Baigorri Crianza 2020",
+        "denominacionOrigen": "D.O. Rioja",
+        "tipoUva": "90% Tempranillo, 10% Garnacha y otras variedades tintas autóctonas",
+        "precio": "10.00 €",
+        "notaCataVisual": "Rojo picota intenso con ribete granate.",
+        "notaCataBoca": "Potente y con cuerpo, con taninos bien integrados y un final largo y persistente.",
+        "notaCataNariz": "Aromas a frutos negros maduros, especias, vainilla y tostados.",
+        "ubicacion": "La Rioja - España",
+        "crianza": "Crianza de 14 meses en barricas de roble francés (90%) y americano (10%)",
+        "foto": "media/tinto_baigorri.png"
+      },
+      {
+        "name": "Orube Crianza 2019",
+        "denominacionOrigen": "D.O. Rioja",
+        "tipoUva": "90% Tempranillo, 10% Garnacha y Graciano",
+        "precio": "10.00 €",
+        "notaCataVisual": "Rojo picota intenso con ribete granate.",
+        "notaCataBoca": "Potente y con cuerpo, con taninos bien integrados y un final largo y persistente.",
+        "notaCataNariz": "Aromas a frutos negros maduros, especias, vainilla y tostados.",
+        "ubicacion": "País Vasco - España",
+        "crianza": "12 meses en barricas de roble francés y americano",
+        "foto": "media/tinto_orube.png"
+      },
+      {
+        "name": "Nauta Monastrell Crianza",
+        "denominacionOrigen": "D.O. Alicante",
+        "tipoUva": "100% Monastrell",
+        "precio": "10.00 €",
+        "notaCataVisual": "Rojo picota intenso con ribete granate.",
+        "notaCataBoca": "Potente y con cuerpo, con taninos bien integrados y un final largo y persistente.",
+        "notaCataNariz": "Aromas a frutos negros maduros, especias, cacao y tostados.",
+        "ubicacion": "Valencia - España",
+        "crianza": "12 meses en barricas de roble francés y americano",
+        "foto": "media/tinto_nauta.png"
+      },
+      {
+        "name": "Beso De Rechenna Crianza",
+        "denominacionOrigen": "D.O. Utiel-Requena",
+        "tipoUva": "100% Bobal",
+        "precio": "9.00 €",
+        "notaCataVisual": "Rojo picota intenso con ribete granate.",
+        "notaCataBoca": "Potente y con cuerpo, con taninos bien integrados y un final largo y persistente.",
+        "notaCataNariz": "Aromas a frutos negros maduros, especias, vainilla y tostados.",
+        "ubicacion": "Valencia - España",
+        "crianza": "8 meses en barricas de roble francés y americano",
+        "foto": "media/tinto_beso.png"
+      },
+      {
+        "name": "Kýma Reserva 2018",
+        "denominacionOrigen": "D.O. Penedès",
+        "tipoUva": "100% Syrah",
+        "precio": "11.00 €",
+        "notaCataVisual": "Cereza intenso.",
+        "notaCataBoca": "Entrada potente, larga, muy bien estructurada y elegante.",
+        "notaCataNariz": "Fruta madura, especies y muy balsámico.",
+        "ubicacion": "Cataluña - España",
+        "crianza": "18 meses en barricas de 300 lts. de roble francés Allier y Americano (grano fino y tostado medio)",
+        "foto": "media/tinto_kyma.png"
+      },
+      {
+        "name": "Mas De Subira Crianza",
+        "denominacionOrigen": "D.O.Q. Priorat",
+        "tipoUva": "60% Cariñena, 40% Garnacha",
+        "precio": "15.00 €",
+        "notaCataVisual": "Color cereza brillante, con una bonita lágrima, ligeramente tintada.",
+        "notaCataBoca": "Entrada fresca y equilibrada. Sus delicados taninos impregnan la boca.",
+        "notaCataNariz": "Aromas muy expresivos e intensos, destacando una fruta fresca y madura acompañada por notas florales. A su vez presenta notas minerales provenientes del terruño y ligeras hierbas aromáticas.",
+        "ubicacion": "Cataluña - España",
+        "crianza": "14 meses en barricas de roble francés y americano",
+        "foto": "media/tinto_mas.png"
+      },
+      {
+        "name": "Finca Ferrer Malbec 2019",
+        "denominacionOrigen": "Mendoza",
+        "tipoUva": "100% Malbec",
+        "precio": "20.00 €",
+        "notaCataVisual": "Rojo violáceo intenso con ribete granate.",
+        "notaCataBoca": "Potente y con cuerpo, con taninos bien integrados y un final largo y persistente.",
+        "notaCataNariz": "Aromas a frutos negros maduros, especias, chocolate y vainilla.",
+        "ubicacion": "Mendoza - Argentina",
+        "crianza": "12 meses en barricas de roble francés y americano",
+        "foto": "media/tinto_finca.png"
+      },
+      {
+        "name": "Premius Bordeaux 2018",
+        "denominacionOrigen": "Burdeos",
+        "tipoUva": "Cabernet Sauvignon, Cabernet Franc, Merlot",
+        "precio": "9.00 €",
+        "notaCataVisual": "Rojo rubí intenso con ribete granate.",
+        "notaCataBoca": "Entrada potente y con cuerpo. Taninos bien integrados, acidez equilibrada y final largo y persistente. Sabores a frutos negros, especias, chocolate y ligeras notas tostadas.",
+        "notaCataNariz": "Aromas complejos a frutos negros maduros (ciruela, mora), especias (pimienta negra), tabaco, cuero y notas tostadas de la crianza en barrica.",
+        "ubicacion": "Burdeos - Fránces",
+        "crianza": "12-18 meses en barricas de roble francés",
+        "foto": "media/tinto_premius.png"
+      }
+    ],
+    "blancos": [
+      {
+        "name": "Árabe",
+        "denominacionOrigen": "Extremadura",
+        "tipoUva": "100% Sauvignon blanc",
+        "precio": "10.00 €",
+        "notaCataVisual": "Amarillo pálido con irisaciones verdosas. Con destellos dorados que harán que tu copa brille y destaque.",
+        "notaCataBoca": "Su agradable y delicado sabor mezclado con el dulzor equilibrado y refrescante, toman una gran presencia en tu paladar. Sentirás en tu boca ese toque chispeante gracias a sus burbujas.",
+        "notaCataNariz": "Con aromas afrutados y toques frescos, incluye frutas tropicales, plátano, piña con matices florales.",
+        "ubicacion": "Badajoz - España",
+        "crianza": "Sin crianza",
+        "foto": "media/blanco_arabe.png"
+      },
+      {
+        "name": "Quinta Do Sil 2022",
+        "denominacionOrigen": "D.O. Valdeorras",
+        "tipoUva": "100% Godello",
+        "precio": "12.00 €",
+        "notaCataVisual": "Color amarillo oro intenso, limpio y brillante.",
+        "notaCataBoca": "De paso untuoso de gran volumen y estructura con final sedoso y persistencia media.",
+        "notaCataNariz": "De intensidad alta ,con aromas de fruta amarilla como membrillo maduro, níspero y compota de pera. Con un fondo profundo que recuerda a manzanilla, te verde y cera de abejas.",
+        "ubicacion": "Pontevedra - España",
+        "crianza": "Sin crianza",
+        "foto": "media/blanco_quinta_do_sol.png"
+      },
+      {
+        "name": "Vionta Albariño 2022",
+        "denominacionOrigen": "D.O. Rias Baixas",
+        "tipoUva": "100% Albariño",
+        "precio": "12.00 €",
+        "notaCataVisual": "De color amarillo con irisaciones doradas y verdosas. Brillante y de aspecto cristalino.",
+        "notaCataBoca": "Con cuerpo, estructura y personalidad. Regala un postgusto largo y ligeramente amargo, característico de la variedad.",
+        "notaCataNariz": "Exhibe potencia y complejidad aromática. Las notas cítricas y tropicales forman una atractiva armonía junto a los aromas de melocotón, melón y de piña.",
+        "ubicacion": "Pontevedra - España",
+        "crianza": "Sobre lías, 5 meses",
+        "foto": "media/blanco_vionta_albarino.png"
+      },
+      {
+        "name": "Vionta Godello 2022",
+        "denominacionOrigen": "D.O. Monterrei",
+        "tipoUva": "100% Godello",
+        "precio": "13.00 €",
+        "notaCataVisual": "De color amarillo limón con reflejos verdosos. Limpio y brillante.",
+        "notaCataBoca": "Redonda, fresca, untuosa y muy afrutada.",
+        "notaCataNariz": "De alta intensidad con aromas afrutados de pera, de manzana y de cítricos.",
+        "ubicacion": "Pontevedra - España",
+        "crianza": "Sin crianza/ 2 meses lias",
+        "foto": "media/blanco_vionta_godello.png"
+      },
+      {
+        "name": "Pluma Blanca Verdejo 2022",
+        "denominacionOrigen": "D.O. Rueda",
+        "tipoUva": "100% Verdejo",
+        "precio": "10.00 €",
+        "notaCataVisual": "Límpido, brillante, de capa alta y tonalidades de atractivos tonos amarillos - verdosos.",
+        "notaCataBoca": "Es muy equilibrado, agradable, cremoso, pero con la frescura típica del verdejo, y un final largo y sabroso. Mineral pero sin amargor final gracias a su viticultura ecológica.",
+        "notaCataNariz": "Muestra aromas típicos de la variedad verdejo sobre un fondo complejo donde se aprecian tonos a frutas exóticas, sílex y anisados.",
+        "ubicacion": "Valladolid - España",
+        "crianza": "Sin crianza",
+        "foto": "media/blanco_pluma.png"
+      }
+    ],
+    "rosados": [
+      {
+        "name": "Baigorri Rosado 2022",
+        "denominacionOrigen": "D.O. Rioja",
+        "tipoUva": "55% Viura, 25% Tempranillo y 20% Garnacha tinta",
+        "precio": "11.00 €",
+        "notaCataVisual": "Vino de color rosado pálido atractivo",
+        "notaCataBoca": "Suave y equilibrado,frutal en armonía con una correcta acidez que da frescor.",
+        "notaCataNariz": "Intensos aromas frutales de cítricos, piña y gominolas.",
+        "ubicacion": "La Rioja - España",
+        "crianza": "Sin crianza",
+        "foto": "media/rosado_baigorri.png"
+      },
+      {
+        "name": "Izadi Larrosa Rosé 2022",
+        "denominacionOrigen": "D.O. Rioja",
+        "tipoUva": "100% Garnacha",
+        "precio": "11.00 €",
+        "notaCataVisual": "Color rosa palo con ribete violeta.",
+        "notaCataBoca": "Aroma intenso a fruta roja; fresa, frambuesa, cereza; también flores blancas y recuerdos de fruta de hueso como melocotón y albaricoque.",
+        "notaCataNariz": "Intenso y agradable, con recuerdos a fruta fresca y notas florales. Sutil y persistente, con buena acidez y final eterno.",
+        "ubicacion": "La Rioja - España",
+        "crianza": "Sin crianza",
+        "foto": "media/rosado_izadi.png"
+      }
+      
+    ],
+    "espumosos": [
+      {
+        "name": "Vis a Vis Frizzante",
+        "denominacionOrigen": "D.O. Castilla y León",
+        "tipoUva": "100% Verdejo",
+        "precio": "8.00 €",
+        "notaCataVisual": "Amarillo pálido con reflejos verdosos.",
+        "notaCataBoca": "Fresca, ligera, con burbujas finas y persistent.",
+        "notaCataNariz": "Aromas frutales a manzana verde, lima, melocotón y cítricos.",
+        "ubicacion": "Castilla y León - España",
+        "crianza": "Segunda fermentación en botella durante unos meses",
+        "foto": "media/espumoso_visavis.png"
+      }
+      
+    ],
+    "cavas": [
+      {
+        "name": "Panot Gaudí Brut Nature",
+        "denominacionOrigen": "D.O. Cava",
+        "tipoUva": "Xarel·lo, Chardonnay, Macabeo y Parellada",
+        "precio": "10.00 €",
+        "notaCataVisual": "Amarillo pálido brillante con reflejos verdosos y constantes y finas burbujas.",
+        "notaCataBoca": "Tiene una entrada amable seguida de una acidez refrescante que combina con notas cítricas. Es intenso, fresco y afrutado.",
+        "notaCataNariz": "Aromas frescos de manzana verde y lima, con un final con recuerdos de flores blancas.",
+        "ubicacion": "Cataluña - España",
+        "crianza": "La segunda fermentación se realiza mediante el método tradicional permaneciendo en las cavas un mínimo de 12 meses a temperatura constante. Cava estilo brut nature de media crianza",
+        "foto": "media/cava_brut.png"
+      },
+      {
+        "name": "Panot Gaudí Pinot Noir Rosé",
+        "denominacionOrigen": "D.O. Cava",
+        "tipoUva": "100% Pinot Noir",
+        "precio": "10.00 €",
+        "notaCataVisual": "Rojo frambuesa.",
+        "notaCataBoca": "Afrutado, fresco, equilibrado, muy complejo y largo.",
+        "notaCataNariz": "Aromático y muy expresivo, con notas de frutos rojos.",
+        "ubicacion": "Cataluña - España",
+        "crianza": "Pinot Noir procedente de viñedos de viticultura ecológica. La segunda fermentación se realiza mediante el método tradicional permaneciendo en las cavas un mínimo de 12 meses a temperatura constante. Cava estilo brut de media crianza",
+        "foto": "media/cava_pinotrose.png"
+      },
+      {
+        "name": "Panot Gaudí Coral",
+        "denominacionOrigen": "D.O. Cava",
+        "tipoUva": "Xarel·lo, Chardonnay y Garnacha negra.",
+        "precio": "10.00 €",
+        "notaCataVisual": "Rosa pálido de intensidad baja, de aspecto limpio y brillante y con burbuja fina y delicada.",
+        "notaCataBoca": "Elegante y fresco con recuerdo a frutos rojos. Tiene una acidez refrescante que le aporta un final largo y persistente.",
+        "notaCataNariz": "Perfil afrutado con recuerdos a frutas blancas (manzana y pera) y a frutas rojas (cereza).",
+        "ubicacion": "Cataluña - España",
+        "crianza": "La segunda fermentación se realiza mediante el método tradicional permaneciendo en las cavas un mínimo de 12 meses a temperatura constante. Cava estilo brut nature de media crianza",
+        "foto": "media/cava_coral.png"
+      }
+      
+    ]
+  }
+  

@@ -1,0 +1,196 @@
+body {
+   /* font-family: Arial, sans-serif;*/
+    font-family: Georgia, "Times New Roman", serif;
+    margin: 0;
+    padding: 0;
+    /*background-color: #483136;*/
+    background-color: #e5e0d1;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Establece el mínimo de altura de la ventana */
+}
+
+header {
+    background-color: #231D1E;
+    padding: 20px;
+    text-align: center;
+}
+main {
+    flex: 1; /* El contenido principal ocupa el espacio disponible */
+}
+footer {
+    background-color: #231D1E;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header label {
+    color: white; /* Color blanco para el texto del label */
+}
+
+.nota-pequena {
+    font-size: 11px; /* Tamaño de fuente más pequeño */
+    text-align: center;
+    margin-bottom: -15px;
+}
+
+
+h1 {
+    margin: 0;
+    color: white;
+}
+
+/* Estilo para centrar los elementos h2 */
+.category h2 {
+    text-align: center; /* Centrar el texto */
+    color: black;
+    font-family: "Didot", "Bodoni MT", "Libre Baskerville", serif;
+  }
+  
+
+#wine-list {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.category {
+    margin-bottom: 20px;
+}
+
+.wines {
+    display: flex;
+    flex-wrap: wrap; /* Cambiado a envolver elementos en lugar de permitir desplazamiento horizontal */
+    gap: 20px;
+    justify-content: space-between; /* Espaciado uniforme entre los elementos */
+}
+
+.wine {
+    flex: 0 0 calc(45.0% - 20px);  
+    max-width: calc(45.0% - 20px);
+    border: 0px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.wine img {
+    width: 15%;
+    border-radius: 5px;
+    display: block; /* Asegura que la imagen se comporte como un bloque */
+    margin: 0 auto; 
+    margin-top: 20px; 
+}
+
+.wine h3 {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    text-align: center; /* Centrar el título */
+    color: black;
+    text-decoration: underline;
+    font-family: "Futura", "Proxima Nova", "Lato", sans-serif;
+}
+
+.wine p {
+    margin: 5px 0;
+    color: #54582f;
+    text-align: center; /* Centrar el título */
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+@media only screen and (max-width: 768px) {
+    .wine {
+        flex: 0 0 calc(50% - 20px); /* Para dos columnas en dispositivos más pequeños */
+        max-width: calc(50% - 20px); /* Ajustar según el número de columnas */
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .wine {
+        flex: 0 0 calc(100% - 20px); /* Para una columna en dispositivos muy pequeños */
+        max-width: calc(100% - 20px); /* Ajustar según el número de columnas */
+    }
+}
+
+
+/* Estilo para el select */
+#filter-select {
+    padding: 8px 12px; /* Espaciado interno */
+    font-size: 16px; /* Tamaño del texto */
+    border: 1px solid #ccc; /* Borde del select */
+    border-radius: 4px; /* Bordes redondeados */
+    background-color: #fff; /* Color de fondo */
+    color: #333; /* Color del texto */
+    appearance: none; /* Eliminar el estilo nativo del sistema */
+  }
+  
+  /* Estilo para cuando se pasa el cursor sobre el select */
+  #filter-select:hover {
+    border-color: #999; /* Cambio de color del borde al pasar el cursor */
+  }
+  
+  /* Estilo para cuando el select está enfocado */
+  #filter-select:focus {
+    outline: none; /* Eliminar el contorno al enfocar */
+    border-color: #231D1E; /* Color del borde al estar enfocado */
+    box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.1); /* Sombra alrededor del select al estar enfocado */
+  }
+  
+/* Estilos para el modal */
+/* Estilos para el modal */
+.modal {
+    display: none; /* Ocultar el modal por defecto */
+    position: fixed; /* Posición fija para que el modal permanezca en el centro */
+    z-index: 1; /* Por encima de otros elementos */
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto; /* Agregar desplazamiento si el contenido del modal es demasiado grande */
+    background-color: rgba(0, 0, 0, 0.5); /* Fondo semitransparente */
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* Margen superior e inferior, y centrar horizontalmente */
+    padding: 20px;
+    border: 1px solid #888;
+    border-radius: 10px; /* Esquinas redondeadas */
+    max-width: 600px; /* Ancho máximo del modal */
+    width: 80%; /* Ancho del contenido del modal */
+}
+
+/* Estilos para el botón de cerrar */
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* Estilos para el título h2 dentro del modal */
+.modal-content h2 {
+    text-align: center; /* Centrar el título */
+    font-family: "Futura", "Proxima Nova", "Lato", sans-serif;
+}
+
+.modal-content p,li{
+    font-family: Helvetica, Arial, sans-serif;
+    color: #54582f;
+}
+  /* Estilos para la imagen dentro del modal */
+.modal-content img {
+    display: block; /* Para eliminar cualquier espacio adicional alrededor de la imagen */
+    margin: 0 auto; /* Centrar la imagen horizontalmente */
+    max-width: 100%; /* La imagen no superará el ancho del contenedor */
+    height: auto; /* La altura se ajustará automáticamente para mantener la proporción de aspecto */
+    width: 20%; /* Tamaño deseado para la imagen (puedes ajustar este valor según tus necesidades) */
+    border-radius: 10px; /* Opcional: bordes redondeados para la imagen */
+}

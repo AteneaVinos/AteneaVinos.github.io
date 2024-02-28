@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Carta de Vinos</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="shortcut icon" type="image/png" href="media/icon.png">
+</head>
+<body>
+  <header>
+    <img src="media/atenea.png" alt="ateneaLogo">
+    <br>
+    <br>
+    <h1>Carta de Vinos</h1>
+    <br>
+    <label for="filter-select">Denominación de Origen:</label>
+    <select id="filter-select">
+      <!-- Las opciones se agregarán dinámicamente aquí -->
+    </select>
+  </header>
+  <main>
+  <p class="nota-pequena">*Para obtener más información, haga clic en la botella de vino.</p>
+  <div id="wine-list" class="wine-list">
+    <div class="category" id="blanco">
+      <hr>
+      <h2>Vinos Blancos</h2>
+      <hr>
+      <div class="wines" id="blanco-wines"></div>
+    </div>
+    <div class="category" id="tinto">
+      <hr>
+      <h2>Vinos Tintos</h2>
+      <hr>
+      <div class="wines" id="tinto-wines"></div>
+    </div>
+    <div class="category" id="rosado">
+      <hr>
+      <h2>Vinos Rosados</h2>
+      <hr>
+      <div class="wines" id="rosado-wines"></div>
+    </div>
+    <div class="category" id="espumoso">
+      <hr>
+      <h2>Vinos Espumosos</h2>
+      <hr>
+      <div class="wines" id="espumoso-wines"></div>
+    </div>
+    <div class="category" id="cava">
+      <hr>
+      <h2>Cavas</h2>
+      <hr>
+      <div class="wines" id="cava-wines"></div>
+    </div>
+  </div>
+</main>
+  <footer>
+    <p>® Instituto Atenea</p>
+</footer>
+  <script src="script.js"></script>
+</body>
+</html>
