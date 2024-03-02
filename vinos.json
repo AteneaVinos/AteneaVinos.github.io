@@ -53,13 +53,37 @@
         "name": "Rivendel Roble 2021",
         "denominacionOrigen": "D.O. Ribera del Duero",
         "tipoUva": "100% Tempranillo",
-        "precio": "10.00 €",
+        "precio": "9.00 €",
         "notaCataVisual": "Rojo picota intenso con ribete granate.",
         "notaCataBoca": "Potente y con cuerpo, con taninos bien integrados y un final largo y persistente.",
         "notaCataNariz": "Aromas a frutos rojos maduros, especias, vainilla y tostados.",
         "ubicacion": "Castilla y León - España",
         "crianza": "4 meses en barricas de roble francés y americano",
         "foto": "media/tinto_rivedel.png"
+      },
+      {
+        "name": "Rivendel Crianza",
+        "denominacionOrigen": "D.O. Ribera del Duero",
+        "tipoUva": "85% Tempranillo y 15% de otras variedades tintas autorizadas",
+        "precio": "14.00 €",
+        "notaCataVisual": "Rojo picota intenso con ribete granate.",
+        "notaCataBoca": "Elegante, con tanino marcado y compleja estructura. Final sabroso, aterciopelado y largo postgusto.",
+        "notaCataNariz": "Aromas a fruta negra madura (mora, ciruela), especias (vainilla, canela), tabaco y toques minerales.",
+        "ubicacion": "Castilla y León - España",
+        "crianza": "Mínimo 12 meses en barricas de roble, 6 de los cuales deben ser de roble americano o francés",
+        "foto": "media/tinto_rivendel_crianza.png"
+      },
+      {
+        "name": "22 Pies Crianza",
+        "denominacionOrigen": "D.O. Rioja",
+        "tipoUva": "100% Tempranillo",
+        "precio": "9.00 €",
+        "notaCataVisual": "Rojo intenso.",
+        "notaCataBoca": "Fresco, frutal y con taninos bien integrados.",
+        "notaCataNariz": "Fruta roja madura, especias, vainilla y toques minerales.",
+        "ubicacion": "La Rioja - España",
+        "crianza": "Crianza durante 12 meses en barricas de roble francés y americano, de las cuales un 30% son nuevas",
+        "foto": "media/tinto_22_pies.png"
       },
       {
         "name": "Valdubón Crianza",
@@ -235,14 +259,51 @@
         "name": "Pluma Blanca Verdejo 2022",
         "denominacionOrigen": "D.O. Rueda",
         "tipoUva": "100% Verdejo",
-        "precio": "10.00 €",
+        "precio": "8.00 €",
         "notaCataVisual": "Límpido, brillante, de capa alta y tonalidades de atractivos tonos amarillos - verdosos.",
         "notaCataBoca": "Es muy equilibrado, agradable, cremoso, pero con la frescura típica del verdejo, y un final largo y sabroso. Mineral pero sin amargor final gracias a su viticultura ecológica.",
         "notaCataNariz": "Muestra aromas típicos de la variedad verdejo sobre un fondo complejo donde se aprecian tonos a frutas exóticas, sílex y anisados.",
         "ubicacion": "Valladolid - España",
         "crianza": "Sin crianza",
         "foto": "media/blanco_pluma.png"
+      },
+      {
+        "name": "Nivarius Edición Limitada",
+        "denominacionOrigen": "D.O. Rioja",
+        "tipoUva": "70% Viura, 30% Maturana blanca",
+        "precio": "12.00 €",
+        "notaCataVisual": "Amarillo pajizo brillante con reflejos verdosos.",
+        "notaCataBoca": "Con cuerpo y estructurado, con buena acidez y un final largo y persistente.",
+        "notaCataNariz": "Aromas intensos y complejos a frutas tropicales (piña, mango), cítricos (limón, pomelo), flores blancas (jazmín, azahar) y notas minerales.",
+        "ubicacion": "La Rioja - España",
+        "crianza": "9 meses sobre sus lías en toneles de roble francés",
+        "foto": "media/blanco_nivarius_edlim.png"
+      },
+      {
+        "name": "Nivarius Finca La Nevera",
+        "denominacionOrigen": "D.O. Rioja",
+        "tipoUva": "Vino 100% Maturana, selección de clones antiguos de la zona",
+        "precio": "30.00 €",
+        "notaCataVisual": "Amarillo pajizo con reflejos verdosos.",
+        "notaCataBoca": "Fresco, untuoso y con una acidez vibrante. Final largo y persistente.",
+        "notaCataNariz": "Aromas intensos y complejos a fruta blanca (melocotón, manzana verde), cítricos (lima), flores blancas (jazmín), hinojo y toques minerales.",
+        "ubicacion": "La Rioja - España",
+        "crianza": "Un mínimo de 36 meses en depósitos de acero inoxidable donde se remueven periódicamente para dotar al vino de mayor amplitud en boca, tenerlo protegido frente a oxidaciones y bajos niveles de sulfitos",
+        "foto": "media/blanco_nivarius_finca.png"
+      },
+      {
+        "name": "Viña Esmeralda",
+        "denominacionOrigen": "D.O.Penedès",
+        "tipoUva": "85% Moscatel de Alejandría, 15% Gewürztraminer",
+        "precio": "11.00 €",
+        "notaCataVisual": "Amarillo pajizo brillante.",
+        "notaCataBoca": "Dulce, fresco y con una acidez equilibrada. Final largo y persistente.",
+        "notaCataNariz": "Aromas intensos y fragantes a fruta tropical (mango, piña), cítricos (lima), flores blancas (jazmín) y miel.",
+        "ubicacion": "Cataluña - España",
+        "crianza": "Fermentación y crianza durante 6 meses en depósitos de acero inoxidable.",
+        "foto": "media/blanco_vinia_esmeralda.png"
       }
+
     ],
     "rosados": [
       {
